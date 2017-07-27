@@ -11,4 +11,4 @@ The cards game, Developed using the Ring programming language (http://ring-lang.
 
 (3) Screen Shot
 
-https://github.com/MahmoudFayed/cards/blob/master/cards_screenshot.png
+![Cards](https://raw.githubusercontent.com/MahmoudFayed/cards/master/cards_screenshot.png)
